@@ -1,8 +1,7 @@
 {
-  "version": "0.8.1",
-  "url": "https://raw.githubusercontent.com/kingswoop/friendfeed-releases/master/addon/FriendFeed-0.8.1.zip",
-  "sha256": "c39fb6d350b82d2e654e97d1750c00f955760698de449813e2d063cc8ef7aeb0",
-  "size": 195407,
-  "released": "2026-11-07T10:02:30.924Z",
-  "curseforgeFileId": 9489341
+  "version": "0.8.2",
+  "url": "https://raw.githubusercontent.com/kingswoop/friendfeed-releases/master/addon/FriendFeed-0.8.2.zip",
+  "sha256": "6ba280239774d92f7c5c9cc024975254432d8e4b55c090bc1279d913877ef81b",
+  "size": 198249,
+  "released": "2026-11-07T10:10:48.889Z"
 }
